@@ -1,16 +1,50 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/71170d0f-d3dd-4d24-a3df-e3cfa9a7e0a6" width="500" alt="MUNDO DOS ANIMES">
+  </br>
+</div>
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Sobre:
+Desenvolvimento de uma aplicação web para o gerenciamento de um catálogo de animes, utilizando React.js no desenvolvimento do front-end. A aplicação tem como objetivo possibilitar a organização, a consulta e o gerenciamento das informações relacionadas aos animes de forma simples e intuitiva.
 
-## React Compiler
+## Tecnologias:
+- Node.js;
+- Visual Studio Code;
+- Navegador moderno (Chrome, Edge);
+- ChatGPT.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Serviço Utilizado:
+- GitHub [Github](https://github.com/)
+- Git Pages 
+- Vercel [Link](https://vercel.com/tatianes-projects-5bccb05b/mundo-dos-animes-m4xl)
 
-## Expanding the ESLint configuration
+## Prompt Utilizado:
+Crie uma aplicação React.js simples, para uma primeira aula sobre componentes funcionais. A ideia é montar uma pequena página chamada "Mundo dos animes", divida em três componentes: Header.jsx Main.jsx Footer.jsx Header.jsx: 
+Crie um cabeçalho: 
+Um título: Mundo dos Animes. 
+Uma pequena frase: 
+Uma navegação: Início Curiosidades Main.jsx: 
+Crie um conteúdo principal com: um título. Um pequeno texto explicando o que a página apresenta: 
+Três pequenos conteúdos usando article, no mínimo, com: cards Cada card precisa ter título e frase curta Footer.jsx 
+Crie um rodapé com: Projeto desenvolvido para aprender React.js App.jsx Importe os três componentes e monte a página nessa ordem: Header.jsx, Main.jsx, Footer.jsx 
+Regras: Utilize html semântico, deve ter <header>, <nav>, <main>, <section>, <article> e <footer>. 
+Seções mínimas: Header: Logo/Nome e menu de navegação. Hero: Título impactante, descrição curta e botão de chamada para ação (CTA). 
+Sobre: Apresentação do projeto. 
+Produtos/Serviços: No mínimo 3 cards demonstrativos dos animes que são (O Diário da Apotecaria, Frieren, O Sabor do Calabouço, One Piece, Meu Casamento Perfeito, SPY x Family). 
+Galeria de imagens: Fotos relacionadas ao tema. Contato e Footer.
+ Links para redes ou informação de contato. Acessibilidade é obrigatório: Imagens com atributo alt descritivo e hierarquia correta de títulos (<h1> a <h4>). 
+ Responsabilidade: O site deve rodar perfeitamente em telas de Celular, Tablet e Desktop (sem rolagem horizontal). Não utilizar CSS inline. Não utilizar JavaScript.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Como o Prompt Ajudou?
+Esse prompt me ajudou a criar o código do projeto porque ele definiu de forma clara a estrutura, o conteúdo e as regras que a aplicação deveria seguir. A partir dessas instruções, foi possível organizar o projeto em componentes React e construir uma página com estrutura semântica e responsiva.
+
+
+## Autora:  [TatianeCMessias](https://www.linkedin.com/in/tatianecmessias/)
+
+
+
+
+
+
