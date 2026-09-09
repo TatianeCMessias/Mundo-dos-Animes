@@ -18,7 +18,7 @@ Desenvolvimento de uma aplicação web para o gerenciamento de um catálogo de a
 ## Serviço Utilizado:
 - GitHub [Github](https://github.com/)
 - Git Pages 
-- Vercel [Link](https://vercel.com/tatianes-projects-5bccb05b/mundo-dos-animes-m4xl)
+- Vercel [Link](https://mundo-dos-animes-m4xl.vercel.app/)
 
 ## Prompt Utilizado:
 Crie uma aplicação React.js simples, para uma primeira aula sobre componentes funcionais. A ideia é montar uma pequena página chamada "Mundo dos animes", divida em três componentes: Header.jsx Main.jsx Footer.jsx Header.jsx: 
