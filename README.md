@@ -16,7 +16,6 @@ Desenvolvimento de uma aplicação web para o gerenciamento de um catálogo de a
 - ChatGPT.
 
 ## Serviço Utilizado:
-- GitHub [Github](https://github.com/)
 - Git Pages 
 - Vercel [Link](https://mundo-dos-animes-m4xl.vercel.app/)
 
