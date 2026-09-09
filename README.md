@@ -1,7 +1,7 @@
 # React + Vite
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/71170d0f-d3dd-4d24-a3df-e3cfa9a7e0a6" width="500" alt="MUNDO DOS ANIMES">
+  <img src="https://github.com/user-attachments/assets/a6a4c563-a328-48c0-ae3a-018747aa0f5a" width="500" alt="MUNDO DOS ANIMES">
   </br>
 </div>
 
