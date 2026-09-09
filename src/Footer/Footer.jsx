@@ -5,12 +5,12 @@ function Footer() {
         <h2>AUTORA: Tatiane Messias</h2>
 
         <p>
-          Projeto desenvolvido para aprender React.js
+          Primeiro projeto desenvolvido para aprender React.js
           e praticar componentes funcionais.
         </p>
 
         <p>
-          &copy; 2026 Mundo dos Animes
+          &copy; 2026 Meu Mundo dos Animes!
         </p>
       </section>
     </footer>

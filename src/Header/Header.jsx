@@ -2,7 +2,7 @@ function Header() {
   return (
     <header className="cabecalho">
       <section className="container">
-        <h2 className="logo">Mundo dos Animes</h2>
+        <h2 className="logo">Meu Mundo dos Animes!</h2>
         
         <nav aria-label="Navegação principal">
           <ul className="menu">

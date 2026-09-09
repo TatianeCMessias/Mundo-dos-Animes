@@ -4,7 +4,7 @@ function Main() {
     <main>
       {/* HERO */}
       <section id="inicio" className="hero">
-        <h1>Entre no Mundo dos Animes</h1>
+        <h1>Entre no Meu Mundo dos Animes</h1>
 
         <p>
           Descubra histórias incríveis, personagens inesquecíveis
@@ -21,7 +21,7 @@ function Main() {
         <h2>Sobre o projeto</h2>
 
         <p>
-          O Mundo dos Animes nasceu para conectar você aos melhores títulos e lançamentos do universo das animações japonesas. O objetivo é incentivar a exploração desse universo fascinante, repleto de criatividade, aventuras épicas e emoções inesquecíveis.
+          O Meu Mundo dos Animes nasceu para conectar você aos melhores títulos e lançamentos do universo das animações japonesas. O objetivo é incentivar a exploração desse universo fascinante, repleto de criatividade, aventuras épicas e emoções inesquecíveis.
         </p>
       </section>
 
@@ -30,7 +30,7 @@ function Main() {
         <h2>Animes em destaque</h2>
 
         <p>
-          Confira alguns títulos que fazem parte desse mundo dos animes.
+          Confira alguns títulos que fazem parte do meu mundo dos animes.
         </p>
 
         <section className="cards">
@@ -38,7 +38,7 @@ function Main() {
           <article className="card">
             <img
               src="https://i.redd.it/estou-muito-viciada-em-di%C3%A1rios-de-uma-apotec%C3%A1ria-v0-8ziupdyx72cf1.png?width=1064&format=png&auto=webp&s=b6ae34e16c064ebe412da151bd6f7b2f50504586"
-              alt="Ilustração inspirada no universo dos animes"
+              alt="Ilustração relacionada ao anime O Diário da Apotecária"
             />
 
             <h3>O Diário da Apotecaria</h3>
@@ -54,7 +54,7 @@ function Main() {
           <article className="card">
             <img
               src="https://www.planocritico.com/wp-content/uploads/2025/10/frieren-1-temp-plano-critico.jpg"
-              alt="Paisagem japonesa relacionada à cultura dos animes"
+              alt="Ilustração do anime Frieren"
             />
 
             <h3>Frieren</h3>
