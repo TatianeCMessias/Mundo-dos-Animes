@@ -1,5 +1,3 @@
-# React + Vite
-
 <div align="center">
   <img src="https://github.com/user-attachments/assets/a6a4c563-a328-48c0-ae3a-018747aa0f5a" width="500" alt="MUNDO DOS ANIMES">
   </br>
