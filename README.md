@@ -5,7 +5,7 @@
 
 ## 📌 Sobre o Projeto
 
-O **Mundo dos Animes** é uma aplicação web desenvolvida com React.js, com o objetivo de apresentar um catálogo de animes de forma simples, organizada e intuitiva.
+O **Meu Mundo dos Animes** é uma aplicação web desenvolvida com React.js, com o objetivo de apresentar um catálogo de animes de forma simples, organizada e intuitiva.
 
 O projeto foi desenvolvido como atividade prática de introdução ao React.js, com foco na criação e utilização de componentes funcionais, organização do código e aplicação de HTML semântico.
 
