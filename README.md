@@ -27,7 +27,7 @@ A aplicação está disponível na Vercel:
 
 ## 🤖 Prompt Utilizado
 
-Crie uma aplicação React.js simples para uma primeira aula sobre componentes funcionais. A ideia é desenvolver uma página chamada **"Mundo dos Animes"**, dividida em três componentes principais: `Header.jsx`, `Main.jsx` e `Footer.jsx`.
+Crie uma aplicação React.js simples para uma primeira aula sobre componentes funcionais. A ideia é desenvolver uma página chamada **"Meu Mundo dos Animes"**, dividida em três componentes principais: `Header.jsx`, `Main.jsx` e `Footer.jsx`.
 
 **Header.jsx:**
 - Criar um cabeçalho com o título "Meu Mundo dos Animes".
