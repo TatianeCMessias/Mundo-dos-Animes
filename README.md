@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/a6a4c563-a328-48c0-ae3a-018747aa0f5a" width="500" alt="MUNDO DOS ANIMES">
+  <img src="https://github.com/user-attachments/assets/a6a4c563-a328-48c0-ae3a-018747aa0f5a" width="500" alt=" MEU MUNDO DOS ANIMES">
   </br>
 </div>
 
@@ -30,7 +30,7 @@ A aplicação está disponível na Vercel:
 Crie uma aplicação React.js simples para uma primeira aula sobre componentes funcionais. A ideia é desenvolver uma página chamada **"Mundo dos Animes"**, dividida em três componentes principais: `Header.jsx`, `Main.jsx` e `Footer.jsx`.
 
 **Header.jsx:**
-- Criar um cabeçalho com o título "Mundo dos Animes".
+- Criar um cabeçalho com o título "Meu Mundo dos Animes".
 - Adicionar uma pequena frase de apresentação.
 - Criar uma navegação com os links Início e Curiosidades.
 
