@@ -3,38 +3,85 @@
   </br>
 </div>
 
+## 📌 Sobre o Projeto
 
-## Sobre:
-Desenvolvimento de uma aplicação web para o gerenciamento de um catálogo de animes, utilizando React.js no desenvolvimento do front-end. A aplicação tem como objetivo possibilitar a organização, a consulta e o gerenciamento das informações relacionadas aos animes de forma simples e intuitiva.
+O **Mundo dos Animes** é uma aplicação web desenvolvida com React.js, com o objetivo de apresentar um catálogo de animes de forma simples, organizada e intuitiva.
 
-## Tecnologias:
-- Visual Studio Code;
-- Navegador moderno (Chrome, Edge);
-- ChatGPT.
+O projeto foi desenvolvido como atividade prática de introdução ao React.js, com foco na criação e utilização de componentes funcionais, organização do código e aplicação de HTML semântico.
 
-## Serviço Utilizado:
-- Vercel [Link](https://mundo-dos-animes-m4xl.vercel.app/)
+## 🛠️ Tecnologias e Ferramentas
 
-## Prompt Utilizado:
-Crie uma aplicação React.js simples, para uma primeira aula sobre componentes funcionais. A ideia é montar uma pequena página chamada "Mundo dos animes", divida em três componentes: Header.jsx Main.jsx Footer.jsx Header.jsx: 
-Crie um cabeçalho: 
-Um título: Mundo dos Animes 
-Uma pequena frase: 
-Uma navegação: Início Curiosidades Main.jsx: 
-Crie um conteúdo principal com: um título 
-Um pequeno texto explicando o que a página apresenta: 
-Três pequenos conteúdos usando article, no mínimo, com: cards Cada card precisa ter título e frase curta Footer.jsx 
-Crie um rodapé com: Missão concluída Projeto desenvolvido para aprender React.js App.jsx 
-Importe os três componentes e monte a página nessa ordem: Header.jsx Main.jsx Footer.jsx Regras: Utilize html semântico, deve ter <header>, <nav>, <main>, <section>, <article> e <footer>. Seções mínimas: Header: Logo/Nome e menu de navegação. Hero: Título impactante, descrição curta e botão de chamada para ação (CTA). Sobre: Apresentação do projeto. Produtos/Serviços: No mínimo 3 cards demonstrativos dos animes que são (O Diário da Apotecaria, Frieren, O Sabor do Calabouço, One Piece, Meu Casamento Perfeito, SPY x Family). Galeria de imagens: Fotos relacionadas ao tema. Contato e Footer: Links para redes ou informação de contato. Acessibilidade é obrigatório: Imagens com atributo alt descritivo e hierarquia correta de títulos (<h1> a <h4>). Responsabilidade: O site deve rodar perfeitamente em telas de Celular, Tablet e Desktop (sem rolagem horizontal). Não utilizar CSS inline.
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- Visual Studio Code
+- Google Chrome / Microsoft Edge
+- ChatGPT (apoio na elaboração do projeto)
 
-## Como o Prompt Ajudou?
-Esse prompt me ajudou a criar o código do projeto porque ele definiu de forma clara a estrutura, o conteúdo e as regras que a aplicação deveria seguir. A partir dessas instruções, foi possível organizar o projeto em componentes React e construir uma página com estrutura semântica e responsiva.
+## 🚀 Deploy
 
+A aplicação está disponível na Vercel:
 
-# Autora:  [TatianeCMessias](https://www.linkedin.com/in/tatianecmessias/)
+🔗 [Acessar Mundo dos Animes](https://mundo-dos-animes-m4xl.vercel.app/)
 
+## 🤖 Prompt Utilizado
 
+Crie uma aplicação React.js simples para uma primeira aula sobre componentes funcionais. A ideia é desenvolver uma página chamada **"Mundo dos Animes"**, dividida em três componentes principais: `Header.jsx`, `Main.jsx` e `Footer.jsx`.
 
+**Header.jsx:**
+- Criar um cabeçalho com o título "Mundo dos Animes".
+- Adicionar uma pequena frase de apresentação.
+- Criar uma navegação com os links Início e Curiosidades.
+
+**Main.jsx:**
+- Criar o conteúdo principal da aplicação.
+- Adicionar um título e um pequeno texto explicativo sobre a proposta da página.
+- Criar pelo menos três conteúdos utilizando a tag `<article>`, com cards contendo títulos e frases curtas sobre os animes.
+
+**Footer.jsx:**
+- Criar um rodapé com a mensagem "Autora: Tatiane Messias".
+- Adicionar a frase "Projeto desenvolvido para aprender React.js".
+
+**App.jsx:**
+- Importar os três componentes e organizá-los na seguinte ordem: Header, Main e Footer.
+
+**Requisitos adicionais:**
+- Utilizar HTML semântico.
+- Incluir as tags `<header>`, `<nav>`, `<main>`, `<section>`, `<article>` e `<footer>`.
+- Criar seções para apresentação, sobre o projeto e conteúdos demonstrativos de animes.
+- Apresentar pelo menos três cards de animes, escolhidos entre: O Diário da Apotecária, Frieren, O Sabor do Calabouço, One Piece, Meu Casamento Perfeito e SPY x FAMILY.
+- Incluir uma galeria de imagens relacionadas ao tema.
+- Adicionar informações de contato ou links para redes sociais.
+- Utilizar imagens com atributos `alt` descritivos.
+- Manter uma hierarquia correta de títulos, de `<h1>` a `<h4>`.
+- Garantir a responsividade para celulares, tablets e desktops, evitando rolagem horizontal.
+- Não utilizar CSS inline.
+
+## 💡 Como o Prompt Ajudou?
+
+O prompt foi importante para orientar o desenvolvimento do projeto, pois definiu de maneira clara a estrutura da aplicação, os componentes necessários e os requisitos que deveriam ser atendidos.
+
+Com essas instruções, foi possível organizar melhor o código utilizando componentes funcionais do React, aplicar conceitos de HTML semântico e desenvolver uma interface responsiva e de fácil navegação.
+
+Além disso, o uso do ChatGPT como ferramenta de apoio contribuiu para transformar as ideias iniciais em uma estrutura de projeto mais organizada, facilitando o aprendizado e a prática dos conceitos apresentados na aula.
+
+## 📚 Aprendizados
+
+Durante o desenvolvimento deste projeto, foi possível praticar:
+
+- Criação e organização de componentes funcionais no React.js.
+- Importação e reutilização de componentes.
+- Estruturação de páginas com HTML semântico.
+- Estilização com CSS.
+- Conceitos de responsividade e acessibilidade.
+- Utilização da inteligência artificial como ferramenta de apoio ao desenvolvimento.
+
+---
+
+**Desenvolvido com dedicação durante meus estudos de React.js! 💜**
+
+[TatianeCMessias](https://www.linkedin.com/in/tatianecmessias/)
 
 
 
